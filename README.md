@@ -15,8 +15,8 @@ The SQL queries utilized to inspect and perform quality check,clean, organize an
 ## Expected Outcome 
 Insights and recommendation are provided based on sales trend, customer preference and competitive analysis. By providing Mr. Paul with actionable insights, He can gain deeper understanding of the market, identify opportunities and implement strategies to improve his business performance. Paul will be better equipped to make informed decisions. 
 
-## Executive Summary 
-# Overview of findings 
+# Executive Summary 
+## Overview of findings 
 The car market experienced a remarkable growth streak between 2022 and 2023 but recorded a slight decline in January 2023. This downturn may be attributed to seasonal fluctuations or shifting consumer preferences. Despite this temporary drop, the overall sales trend remains robust.
 
 Key Observations:
