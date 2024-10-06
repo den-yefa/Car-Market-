@@ -8,7 +8,7 @@ Paul, a foreign car dealer operating in America, is experiencing declining sales
 *	Competitive Landscape: Paul needs to assess the competitive landscape to understand his position in the market.
 *	Data Access: He has limited access to insights and informed data.
 
-An interactive PowerBI dashboard can be downloaded here
+An interactive PowerBI dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/18d7e45a-779e-491c-ae59-5fae80e70f09/b805dd1766b09320e7df?experience=power-bi).
 
 The SQL queries utilized to inspect and perform quality check,clean, organize and prepare data for the dashboard can be found here 
 
