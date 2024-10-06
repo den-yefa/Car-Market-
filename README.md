@@ -25,6 +25,7 @@ Key Observations:
 - Potential factors: seasonal variations, changes in consumer preferences, or decreased car prices.
   
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+
 ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Car-Market-/refs/heads/main/Images/Overview.png)
 
 
@@ -35,7 +36,11 @@ Key market statistics:
 - Top-selling car brands: Volkswagen, Lexus, Oldsmobile, Dodge, Chevrolet.
 - Leading car dealers: Rabun Used Car Sales, Progressive Shippers' Cooperative Association.
 - Average annual income: $830.8K.
+
+  
 ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Car-Market-/refs/heads/main/Images/CustomerAnalysis.png)
+
+
 ## Demographic Analysis
 The customer base exhibits a high-income profile, with an average annual income of $830,800. Additionally, the gender distribution reveals:
 - Male: 75%
