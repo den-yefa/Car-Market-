@@ -10,7 +10,7 @@ Paul, a foreign car dealer operating in America, is experiencing declining sales
 
 An interactive PowerBI dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/18d7e45a-779e-491c-ae59-5fae80e70f09/b805dd1766b09320e7df?experience=power-bi).
 
-The SQL queries utilized to inspect and perform quality check,clean, organize and prepare data for the dashboard can be found here 
+The SQL queries utilized to inspect and perform quality check,clean, organize and prepare data for the dashboard can be found [here](https://raw.githubusercontent.com/den-yefa/Car-Market-/refs/heads/main/SQL%20Queries/car%20sales.sql)
 
 ## Expected Outcome 
 Insights and recommendation are provided based on sales trend, customer preference and competitive analysis. By providing Mr. Paul with actionable insights, He can gain deeper understanding of the market, identify opportunities and implement strategies to improve his business performance. Paul will be better equipped to make informed decisions. 
