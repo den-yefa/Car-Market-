@@ -16,31 +16,32 @@ The SQL queries utilized to inspect and perform quality check,clean, organize an
 Insights and recommendation are provided based on sales trend, customer preference and competitive analysis. By providing Mr. Paul with actionable insights, He can gain deeper understanding of the market, identify opportunities and implement strategies to improve his business performance. Paul will be better equipped to make informed decisions. 
 
 ## Executive Summary 
-#Overview of findings 
+# Overview of findings 
 The car market experienced a remarkable growth streak between 2022 and 2023 but recorded a slight decline in January 2023. This downturn may be attributed to seasonal fluctuations or shifting consumer preferences. Despite this temporary drop, the overall sales trend remains robust.
 
 Key Observations:
-- Continuous growth between 2022 and 2023
-- Slight decline in January 2023 compared to the previous month but performed slightly higher that the first quarter in 2022
-- Potential factors: seasonal variations, changes in consumer preferences, or decreased car prices
+- Continuous growth between 2022 and 2023.
+- Slight decline in January 2023 compared to the previous month but performed slightly higher that the first quarter in 2022.
+- Potential factors: seasonal variations, changes in consumer preferences, or decreased car prices.
   
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
 
 
 
-The car market has demonstrated consistent growth in sales over the past year, reflecting a favourable industry trend. Volkswagen leads the market in popularity and sales, achieving an impressive $19 million in revenue, followed closely by Lexus, Oldsmobile, Dodge, and Chevrolet. This top five ranking suggests strong brand loyalty and competitive pricing strategies.
+The car market has demonstrated consistent growth in sales over the past year, reflecting a favourable industry trend. Volkswagen leads the market in popularity and sales, achieving an impressive $19 million in revenue, followed closely by Lexus, Oldsmobile, Dodge, and Chevrolet. These top five ranking suggests strong brand loyalty and competitive pricing strategies.
 These insights are valuable for inventory management and understanding American consumer preferences. Notably, Rabun Used Car Sales tops the list of dealers with the highest sales, likely due to attractive pricing. The Progressive Shippers' Cooperative Association trails closely in total sales over a two-year period. 
 
 Key market statistics:
-- Top-selling car brands: Volkswagen, Lexus, Oldsmobile, Dodge, Chevrolet
-- Leading car dealers: Rabun Used Car Sales, Progressive Shippers' Cooperative Association
-- Average annual income: $830.8K
+- Top-selling car brands: Volkswagen, Lexus, Oldsmobile, Dodge, Chevrolet.
+- Leading car dealers: Rabun Used Car Sales, Progressive Shippers' Cooperative Association.
+- Average annual income: $830.8K.
 
 ## Demographic Analysis
 The customer base exhibits a high-income profile, with an average annual income of $830,800. Additionally, the gender distribution reveals:
 - Male: 75%
 - Female: 25%
 These statistics indicate that the car market is predominantly driven by affluent male buyers, presenting opportunities for targeted marketing strategies.
+
 ## Customer Analysis 
 -	The car market is primarily driven by high-earning individuals, with a notable regional variation in sales. Austin tops the list with almost $120 million in sales, indicating a high concentration of affluent consumers in this region, closely followed by Janesville and the Scottsdale.
 
